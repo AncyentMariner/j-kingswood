@@ -1,0 +1,22 @@
+#main-header {
+  width: 100%;
+  min-height: 143px;
+}
+
+.nav-buttons {
+  float: right;
+  margin: 1em;
+}
+
+#logo {
+  margin-left: 15px;
+  height: 125px;
+  width: 125px;
+}
+
+.button {
+  text-decoration: none;
+  margin: 1em;
+  height: 40px;
+  font-size: 1.2em;
+}
