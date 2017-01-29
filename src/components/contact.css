@@ -1,0 +1,12 @@
+.icon {
+  height: 32px;
+  width: 32px;
+}
+
+.links a {
+  text-decoration: none;
+}
+
+.row {
+  vertical-align: middle;
+}

@@ -16,6 +16,7 @@
 
 .button {
   text-decoration: none;
+  color: rgba(52, 0, 0, 0.8);
   margin: 1em;
   height: 40px;
   font-size: 1.2em;
