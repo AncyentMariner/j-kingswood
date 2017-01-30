@@ -1,0 +1,11 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 550.53 263.15">
+  <defs>
+    <style>.cls-1{fill:none;stroke:rgba(52, 0, 0, 0.8);stroke-miterlimit:10;stroke-width:6px;}</style>
+  </defs>
+  <title>logo</title>
+  <polyline class="cls-1" points="151.71 54.38 6.71 135.15 151.71 199.63"/>
+  <polyline class="cls-1" points="397.71 54.38 542.71 135.15 397.71 199.63"/>
+  <polyline class="cls-1" points="264.71 0 264.71 255 172.71 147"/>
+  <path class="cls-1" d="M267.21,127l68-83.5Z" transform="translate(-2.55)"/>
+  <line class="cls-1" x1="264.71" y1="132.5" x2="360.71" y2="225.5"/>
+</svg>
